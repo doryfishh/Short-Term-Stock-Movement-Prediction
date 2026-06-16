@@ -207,30 +207,6 @@ Future work could include:
 * TCN
 * Ensemble Learning
 
-## Repository Structure
-
-```text
-stock-movement-meta-ensemble/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-├── notebooks/
-│   └── stock_movement_prediction.ipynb
-│
-├── report/
-│   └── final_project_report.pdf
-│
-├── images/
-│   ├── methodology_diagram.png
-│   ├── ensemble_results.png
-│   └── confusion_matrix.png
-│
-└── outputs/
-    └── model_results_summary.csv
-```
-
 ## How to Run
 
 1. Clone the repository.
